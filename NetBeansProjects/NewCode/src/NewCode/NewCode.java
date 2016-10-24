@@ -22,8 +22,7 @@ public class NewCode {
     
     numero1 = Short.parseShort(JOptionPane.showInputDialog("numero1"));
     numero2 = Short.parseShort(JOptionPane.showInputDialog("numero2"));
-    
-   
-  
+
+  Is this real life, or just fantasy?
     
 }
