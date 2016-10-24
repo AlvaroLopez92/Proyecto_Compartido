@@ -22,11 +22,8 @@ public class NewCode {
     
     numero1 = Short.parseShort(JOptionPane.showInputDialog("numero1"));
     numero2 = Short.parseShort(JOptionPane.showInputDialog("numero2"));
-    {
-    if (numero1 > numero2){ System.out.print((numero1-numero2));}
-    else System.out.print((numero1+numero2));
-    }
     
-    }
+   
+  
     
 }
